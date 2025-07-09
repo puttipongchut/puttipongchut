@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puttipongchut&theme=dark&size_weight=0.5&count_weight=0.5&hide=SCSS,CMake&langs_count=6&layout=compact) <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=puttipongchut)](https://github.com/puttipongchut/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=puttipongchut)](https://github.com/ryo-ma/github-profile-trophy)
